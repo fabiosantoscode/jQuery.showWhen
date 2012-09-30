@@ -2,7 +2,7 @@
 
 jQuery.showWhen
 
-Fabio Santos (fabiosantoscode@blogspot.com)
+Fabio Santos (fabiosantoscode.blogspot.com)
 
 Usage:
  - Include this script from your HTML page. It depends on jQuery, so include it
