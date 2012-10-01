@@ -5,6 +5,10 @@ jQuery plugin to only show parts of pages when certain conditions are met.
 
 By Fabio Santos (http://fabiosantoscode.blogspot.com)
 
+[Here is a blog post on it] (http://fabiosantoscode.blogspot.pt/2012/09/jqueryshowwhen.html)
+
+[And here is a fiddle] (http://jsfiddle.net/pGrKH/6/)
+
 Usage
 ----
 
@@ -16,11 +20,6 @@ display:none rule.)
  - Use the `invert` argument to tell the plugin to do the opposite. I.E.
 instead of showing the target when the input has something written on it, show
 it when there is nothing written on it.
-
-[Here is a blog post on it] (http://fabiosantoscode.blogspot.pt/2012/09/jqueryshowwhen.html)
-
-[And here is a fiddle] (http://jsfiddle.net/pGrKH/6/)
-
 
 Roadmap
 -------
